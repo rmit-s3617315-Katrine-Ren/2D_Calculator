@@ -1,5 +1,5 @@
 # 2D_Calculator
 
-- This is a calculator deploying Vanilla JavaScript
+- This is mini Vanilla JavaScript project
 - No framework & modules
 
